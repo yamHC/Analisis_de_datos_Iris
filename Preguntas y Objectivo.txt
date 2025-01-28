@@ -1,0 +1,23 @@
+Análisis exploratorio:
+
+¿Cuántos registros y columnas tiene el dataset?
+
+¿Hay valores faltantes o duplicados en los datos?
+
+¿Cuál es la distribución de las especies presentes en el dataset?
+
+¿Cuál es el rango, la media, la mediana y la desviación estándar de las dimensiones de los sépalos y pétalos?
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Visualización de datos:
+
+¿Cómo se distribuyen las longitudes y anchos de los sépalos y pétalos por especie? (gráficos de caja o violin)
+
+¿Existen correlaciones entre las diferentes dimensiones? (gráfico de dispersión y matriz de correlación)
+
+¿Cómo varía el tamaño promedio del sépalo y pétalo según la especie? (barras)
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Guardar y visualizarlo el BD en Power bi
